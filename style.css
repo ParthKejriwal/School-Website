@@ -1,0 +1,15 @@
+.header{
+    color:blue;
+    border: solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.body{
+    color: saddlebrown;
+    border: solid;
+    display: flex;
+    justify-content: space-evenly;
+}
+
